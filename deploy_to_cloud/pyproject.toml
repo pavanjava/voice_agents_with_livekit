@@ -1,0 +1,13 @@
+[project]
+name = "livekit-voice-agent"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "livekit-agents[cartesia, openai]",
+    "python-dotenv",
+    "qdrant-client>=1.18.0",
+    "fastembed>=0.8.0",
+    "ddgs>=9.14.4",
+    "livekit>=1.1.12",
+    "requests>=2.34.2"
+]
