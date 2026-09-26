@@ -5,6 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/livekit-outbound/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="~/Pavans/Workshops/s2s_agents/.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
