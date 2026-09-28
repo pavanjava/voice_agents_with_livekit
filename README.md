@@ -22,7 +22,7 @@ LIVEKIT_API_SECRET=secret
 ```
 
 For the full React UI + agent + token server run instructions, see
-[ReactUI_Livekit_Integration.md](ReactUI_Livekit_Integration.md).
+[ReactUI_Livekit_Integration.md](livekit-voice-ui/ReactUI_Livekit_Integration.md).
 
 ## LiveKit Local Setup
 
@@ -131,5 +131,5 @@ RAG-based agents (`agent_with_ctx`, `agent_with_realdata_2`, `agent_handoff`,
 
 ## Related docs
 
-- [ReactUI_Livekit_Integration.md](ReactUI_Livekit_Integration.md) — full 4-service run (server, agent, token server, React UI) and troubleshooting.
+- [ReactUI_Livekit_Integration.md](livekit-voice-ui/ReactUI_Livekit_Integration.md) — full 4-service run (server, agent, token server, React UI) and troubleshooting.
 - [VoiceAgents_Workshop_Presentation.pptx](VoiceAgents_Workshop_Presentation.pptx) — workshop slides.
