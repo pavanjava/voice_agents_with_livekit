@@ -16,5 +16,7 @@ dependencies = [
     "llama-index-embeddings-ollama>=0.10.0",
     "fastembed>=0.8.1",
     "qdrant-client>=1.19.1",
-    "tavily-python>=0.8.4"
+    "tavily-python>=0.8.4",
+    "psycopg2-binary>=2.9.13",
+    "fastmcp>=4.0.10",
 ]
