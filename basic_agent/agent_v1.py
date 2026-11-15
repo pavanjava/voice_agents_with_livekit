@@ -23,7 +23,7 @@ async def entrypoint(ctx: agents.JobContext):
     session = AgentSession(
         stt=cartesia.STT(),
         llm=openai.LLM(model="gpt-4o-mini"),
-        tts=cartesia.TTS(),
+        tts=cartesia.TTS(voice="4418bb06-8329-49a1-bb11-53bb64ca0547"),
     )
 
     await session.start(
